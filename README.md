@@ -1,6 +1,6 @@
 # 💰 Java Mortgage Calculator
 
-Ye ek simple **Java program** hai jo:
+Ye ek simple **Java program** hai jo :
 - 📝 Loan ka **monthly mortgage calculate karta hai**.
 - 📅 Saath hi **payment schedule** bhi print karta hai (kitna balance bacha hai har month ke baad).
 
